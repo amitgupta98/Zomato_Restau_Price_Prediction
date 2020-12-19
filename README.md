@@ -74,6 +74,7 @@ In this step, we perform different sets of validation on the given set of traini
 
 ## Deployment
 -We will be deploying the model to the Pivotal Web Services Platform. 
+
 -This is a workflow diagram for the prediction of using the trained model.                  
 
 
